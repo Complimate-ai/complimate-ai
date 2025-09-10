@@ -1,0 +1,9 @@
+# Ignore environment and secrets
+.env
+*.log
+config/
+secrets/
+dist/
+node_modules/
+__pycache__/
+.DS_Store
